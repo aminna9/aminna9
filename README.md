@@ -2,6 +2,10 @@
 
 A hard-working computer engineering graduate who is passionate about the tech industry!
 
+# 🌐 Contact me via:
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameenahalamer@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amina-alaamer/)
+
 # 💻 Skills:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-%239146FF.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
